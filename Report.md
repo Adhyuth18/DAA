@@ -11,3 +11,8 @@ The graph needs to be converted into an undirected graph by replacing each direc
 ## Dijkstra's Algorithm
 
 Dijkstra's allows directed graphs, but not graphs with negative weights.The weights are considered since we are penalizing them.
+
+
+## Kruskal's Algorithm
+
+
